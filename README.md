@@ -1,4 +1,4 @@
-- Hi, I’m @GothamKnight23 aka Ajit
+- Hi, I’m @GothamKnight17 aka Ajit
 - Senior At KIIT University 
 - Interned At UNICOMPILER (July 2022-August 2022) (Role: Front End Developer)
 - Interned At Celebal Technologies (May 2023-July 2023) (Role: Data Science Intern) | 
