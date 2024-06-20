@@ -3,8 +3,8 @@
 - Interned At UNICOMPILER (July 2022-August 2022) (Role: Front End Developer)
 - Interned At Celebal Technologies (May 2023-July 2023) (Role: Data Science Intern) | 
 - Known Computer Language: JAVA, C++, Python | 
-- Aspiring Software Engineer/AI-ML Engineer.
-- Area Of Interest: Machine Learning, Coding & Problem Solving, DSA
+- Aspiring Software Engineer.
+- Area Of Interest: Software Development, Machine Learning, Coding & Problem Solving, DSA
 - I am a "Talk Is Cheap, Show Me The Code" Type Of Person.
 
 <!---
