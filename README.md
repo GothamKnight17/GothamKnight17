@@ -1,7 +1,6 @@
 - Hi, I’m @GothamKnight17 aka Ajit
 - 2024 Graduate from KIIT University 
-- Interned At UNICOMPILER (July 2022-August 2022) (Role: Front End Developer)
-- Interned At Celebal Technologies (May 2023-July 2023) (Role: Data Science Intern) | 
+- Currently A Trainee At Mthree (Wiley Edge) 
 - Known Computer Language: JAVA, C++, Python | 
 - Aspiring Software Engineer.
 - Area Of Interest: Software Development, Machine Learning, Coding & Problem Solving, DSA
