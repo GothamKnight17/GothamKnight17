@@ -1,6 +1,7 @@
 - Hi, I’m @GothamKnight17 aka Ajit
-- 2024 Graduate from KIIT University 
-- Currently A Trainee At Mthree (Wiley Edge) 
+- 2024 Graduate From KIIT University
+- Currently a System Engingeer @TCS
+- Ex - Trainee At Mthree (Wiley Edge) 
 - Known Computer Language: JAVA, C++, Python | 
 - Aspiring Software Engineer.
 - Area Of Interest: Software Development, Machine Learning, Coding & Problem Solving, DSA
